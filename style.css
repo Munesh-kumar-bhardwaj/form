@@ -1,0 +1,33 @@
+label {
+    width: 100px;
+    display: inline-block;
+}
+
+button {
+    color: aliceblue;
+    background-color: darkgreen;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+form {
+    /* border: 1px solid black; */
+    padding: 30px 10px;
+    display: inline-block;
+    box-shadow: 0 4px 8px 4px;
+}
+
+select {
+    width: 170px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    padding-top: 30px;
+}
